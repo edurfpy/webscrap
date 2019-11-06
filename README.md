@@ -3,7 +3,9 @@
 
 ## Descripción.
     Obtener datos e imágenes acerca de las especies de árboles de canarias de la página 
-    "http://www.arbolappcanarias.es/especies-nombre-cientifico" mediante técnicas de web scraping en el lenguaje python, y almacenarlos en un dataset. Todo esto en el marco de la Practica 1 de la asignatura "Tipología y ciclo de vida del dato" del Master en Ciencia de Datos por la UOC.
+    "http://www.arbolappcanarias.es/especies-nombre-cientifico" mediante técnicas de web scraping en el lenguaje 
+    python, y almacenarlos en un dataset. Todo esto en el marco de la Practica 1 de la asignatura "Tipología y 
+    ciclo de vida del dato" del Master en Ciencia de Datos por la UOC.
     
 ## Miembros del equipo.
     Esta práctica se ha realizado de manera individual por Eduardo Rivero Falcón.
