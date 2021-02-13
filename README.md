@@ -1,14 +1,9 @@
-# TIPOLOGIA Y CICLO DE VIDA DEL DATO.
-# PRACTICA 1: WEB SCRAPPING
 
 ## Descripción.
     Obtener datos e imágenes acerca de las especies de árboles de canarias de la página 
     "http://www.arbolappcanarias.es/especies-nombre-cientifico" mediante técnicas de web scraping en el lenguaje 
-    python, y almacenarlos en un dataset. Todo esto en el marco de la Practica 1 de la asignatura "Tipología y 
-    ciclo de vida del dato" del Master en Ciencia de Datos por la UOC.
+    python, y almacenarlos en un dataset.
     
-## Miembros del equipo.
-    Esta práctica se ha realizado de manera individual por Eduardo Rivero Falcón.
     
 ## Estructura.
    
@@ -23,13 +18,6 @@
    * Archivo "respuestas.pdf" donde se responde al cuestionario de la práctica.
    
    
-## Bibliografia y recursos.
-    
-    - Apuntes de la asignatura (2019). Web scraping. Laia Subirats Maté, Mireia Calvo González.
-    - Mitchel, R. (2015). Web Scraping with Python: Collecting Data from the Modern Web. O'Reilly Media.
-    - Lawson, R. (2015). Web Scraping with Python. Packt Publishing Ltd.
-    - Rakesh Vidya Chandra, Bala Subrahmanyam Varanasi (2015). Python Requests Essentials. Packt Publishing Ltd
-    - Vineeth G. Nair (2014). Getting Started with Beautiful Soup. Packt Publishing Ltd.
     
 ## Derechos.
    
